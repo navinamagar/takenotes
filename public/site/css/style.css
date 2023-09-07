@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body {
+    background-color: rgb(238, 29, 29)
+    min-height= 100vh;
+   
+}
+
+.box{
+    background: blue;
+}
